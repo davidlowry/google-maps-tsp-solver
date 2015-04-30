@@ -1,7 +1,7 @@
 # google-maps-tsp-solver
 Automatically exported from code.google.com/p/google-maps-tsp-solver
 
-
+[code]
 // Your normal Google Map object initialization
 var myOptions = {
   zoom: zoom,
@@ -41,3 +41,4 @@ var order = tsp.getOrder();
 var durations = tsp.getDurations();
 
 // There are also other utility functions, see the source.
+[/code]
